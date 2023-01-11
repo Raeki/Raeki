@@ -1,5 +1,7 @@
-## About Me
-  - Aspiring software developer.
+## 📖 About Me
+  - 💻 Aspiring full-stack software developer.
+  - 🗾 Bilingual.
+  - 🖧 Former IT professional.
 <!--
 **Raeki/Raeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
