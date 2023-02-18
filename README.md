@@ -1,6 +1,6 @@
 ## 📖 About Me
   - 💻 Aspiring full-stack software developer.
-  - 🗾 English/Japanse Bilingual.
+  - 🗾 English/Japanese Bilingual.
   - 🖧 Former IT professional.
 
 ## ⌨️ What I'm working on now
