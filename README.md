@@ -16,3 +16,8 @@
 
 ### ☎️ Contact Me
   - matthew@keithley.me
+
+### 😃 What I do when I'm not coding
+  - 🏃 Jogging them there hills. 
+  - 📗 Working on my book. 
+  - 🤡 Getting my head clicked in Valorant
