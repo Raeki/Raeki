@@ -1,7 +1,7 @@
 ### 📖 About Me
   - 💻 Aspiring full-stack software developer.
   - 🗾 English/Japanese Bilingual.
-  - 🖧 Former IT professional.
+  - 🖥️ Former IT professional.
 
 ### ⌨️ What I'm working on now
   - ✈️ Maintaining and improving [TomoTabi](https://github.com/tomo-tabi), an Android app that helps you plan trips with your friends!
