@@ -9,7 +9,7 @@
   - 🦀 Writing a direct conversion of Bash into Rust as [Rush](https://github.com/kalebskeithley/rush), under the careful guidance of my software engineering mentor/beloved father.
 
 ## ⏰ Future plans
-  - 👾 Building a browser based referee screen/virtual tabletop for a ttrpg inspired by [Cepheus SRD](https://www.orffenspace.com/cepheus-srd/).
+  - 👾 Building a browser based GM screen/virtual tabletop for a ttrpg inspired by [Cepheus SRD](https://www.orffenspace.com/cepheus-srd/).
 
 ## 👨‍🎓 What I'm learning
   - Next.js | Java Spring Boot | Rust
