@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raeki&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ### ⌨️ What I'm working on now
   - ✈️ Maintaining and improving [TomoTabi](https://github.com/tomo-tabi), an Android app that helps you plan trips with your friends!
   - 👨‍🎓 Rebuilding [Keizoku Study](https://github.com/keizoku-study) with Next.js and Java Spring Boot to familiarize myself with those technologies.
