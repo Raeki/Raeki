@@ -9,9 +9,6 @@
 ### 👨‍🎓 What I'm learning
   - Next.js | Java Spring Boot | Rust
 
-### ☎️ Contact Me
-  - matthew@keithley.me
-
 ### 😃 What I do when I'm not coding
   - 🏃 Jogging in them there hills. 
   - 📗 Working on my book. 
