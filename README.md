@@ -9,7 +9,7 @@
   - Cybersecurity
   - Rust
 
-### 😃 What I do when I'm not coding
+### 😃 What I do when I'm not working
   - 🏋️ Picking up heavy objects and putting them down
   - 🤡 Getting my head clicked in Valorant
 
